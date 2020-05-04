@@ -1,22 +1,28 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Dataset recommendation systems 
+  i18n: Dataset recommendation systems 
+  gh_user: chocolocked
+  repo: chocolocked
+  img: /static/assets/img/landing/jekyll.png #change this
+  desc: Bert 
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
+- name: Decoking prediction
+  i18n: Decoking prediction
+  gh_user: chocolocked
+  repo:    #name 
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Summer project at Shell
 
-- name: Google
+- name: Information extraction
   i18n: google
   url: https://google.com
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: Summer project at Shell
+  
+- name: Heart failure onset risk prediction
+  i18n: chocolocked
+  repo: chocolocked
+  img: /static/assets/img/landing/google.png
+  desc: Summer project at Shell
