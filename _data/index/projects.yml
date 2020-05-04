@@ -1,28 +1,28 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Dataset recommendation systems 
-  i18n: Dataset recommendation systems 
+- name: Scholarly Recommendation systems 
+  i18n: Scholarly recommendation systems 
   gh_user: chocolocked
   repo: ScholarlyRecommenders
   img: /static/assets/img/landing/jekyll.png #change this to my graph
-  desc: Bert 
+  desc: Current/ongoing PhD project
 
 - name: Decoking prediction
   i18n: Decoking prediction
   gh_user: chocolocked
   repo: RefineryDecokingPrediction
-  img: https://upload.wikimedia.org/wikipedia/en/e/e8/Shell_logo.svg
+  img: /static/assets/img/landing/Shell_logo.svg
   desc: Summer project at Shell
 
 - name: Information extraction
   i18n: chocolocked
   repo: MTRformsInfoExtraction
-  img: https://upload.wikimedia.org/wikipedia/en/e/e8/Shell_logo.svg
+  img: /static/assets/img/landing/Shell_logo.svg
   desc: Summer project at Shell
   
 - name: Heart failure onset risk prediction
   i18n: chocolocked
   url: https://github.com/ZhiGroup/pytorch_ehr
-  img: https://github.com/ZhiGroup/pytorch_ehr/blob/master/tutorials/Pipeline%20for%20data%20flow.png
+  img: /static/assets/img/landing/google.png
   desc: Previous PhD research project
