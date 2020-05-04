@@ -4,7 +4,7 @@
     detail: The University of Texas Health Science Center at Houston
     i18n: company_a
   desc:
-    detail: I worked at UTHealth as a Ph.D. student researching on recommendation systems.
+    detail: I worked as a Ph.D. student researching on recommendation systems.
     i18n: company_a_desc
   date:
     detail: Dec. 2018
@@ -19,7 +19,7 @@
     detail: Shell Global Solutions 
     i18n: company_b
   desc:
-    detail: I worked at Shell Global Solutions Houston as an intern data scientist leading two projects: refinery decoking prediction using LSTM and GBM, information extraction from MTR forms using Tesseract-OCR and NLP
+    detail: I worked as an intern data scientist leading 2 projects: refinery decoking prediction & information extraction.
     i18n: company_b_desc
   date:
     detail: May. 2018
