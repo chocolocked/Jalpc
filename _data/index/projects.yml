@@ -5,7 +5,7 @@
   i18n: Scholarly recommendation systems 
   gh_user: chocolocked
   repo: ScholarlyRecommenders
-  img: /static/assets/img/landing/jekyll.png #change this to my graph
+  img: /static/assets/img/landing/resys.png #change this to my graph
   desc: Current/ongoing PhD project
 
 - name: Decoking prediction
