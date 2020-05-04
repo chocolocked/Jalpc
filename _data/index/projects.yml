@@ -10,7 +10,8 @@
  
 - name: Heart failure onset risk prediction
   i18n: chocolocked
-  url: https://github.com/ZhiGroup/pytorch_ehr
+  gh_user: ZhiGroup
+  repo: pytorch_ehr
   img: /static/assets/img/landing/google.png
   desc: Previous PhD research project
   
