@@ -4,7 +4,7 @@
     detail: The University of Texas Health Science Center at Houston
     i18n: company_a
   desc:
-    detail: I worked as a Ph.D. student researching on recommendation systems.
+    detail: I worked as a Ph.D. student researching on recommendation systems, and previously, pytorch EHR
     i18n: company_a_desc
   date:
     detail: Dec. 2018
