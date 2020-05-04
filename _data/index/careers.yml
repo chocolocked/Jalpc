@@ -4,7 +4,7 @@
     detail: The University of Texas Health Science Center at Houston
     i18n: company_a
   desc:
-    detail: I worked as a Ph.D. student researching on recommendation systems, and previously, pytorch EHR
+    detail: I'm working as a Ph.D. student researching on recommendation systems, and previously, pytorch EHR.
     i18n: company_a_desc
   date:
     detail: Dec. 2018
@@ -19,7 +19,7 @@
     detail: Shell Global Solutions 
     i18n: company_b
   desc:
-    detail: I worked as an intern data scientist leading 2 projects, refinery decoking prediction with LSTM & MTR forms information extraction with Tesseract-OCR and NLP .
+    detail: I worked as an intern data scientist leading 2 projects, refinery decoking prediction with LSTM & MTR forms information extraction with Tesseract-OCR and NLP.
     i18n: company_b_desc
   date:
     detail: May. 2018
