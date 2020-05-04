@@ -23,11 +23,20 @@ author:  # change following line to your infomation.
   cv:   # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
-    - name: fa-linux
+    - name: fa-python
+    - name: fa-python
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: fa-r-project
+    - name: fa-r-project
+  skill_icon3:
+    - name: icon-git
+    - name: fa-git
+  skill_icon4:
+    - name: fa-function
+    - name: fa-function
+  skill_icon5:
+    - name: fa-brain
+    - name: fa-brain
   desc: Data scientist by day, Dancer by night || Current Ph.D. student in Biostats & Data Science@UT, alum@CMU.  # Describe yourself.
 
 # comment
