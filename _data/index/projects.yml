@@ -7,7 +7,13 @@
   repo: ScholarlyRecommenders
   img: /static/assets/img/landing/resys.png #change this to my graph
   desc: Current/ongoing PhD project
-
+ 
+- name: Heart failure onset risk prediction
+  i18n: chocolocked
+  url: https://github.com/ZhiGroup/pytorch_ehr
+  img: /static/assets/img/landing/google.png
+  desc: Previous PhD research project
+  
 - name: Decoking prediction
   i18n: Decoking prediction
   gh_user: chocolocked
@@ -21,8 +27,3 @@
   img: /static/assets/img/landing/Shell_logo.svg
   desc: Summer project at Shell
   
-- name: Heart failure onset risk prediction
-  i18n: chocolocked
-  url: https://github.com/ZhiGroup/pytorch_ehr
-  img: /static/assets/img/landing/google.png
-  desc: Previous PhD research project
