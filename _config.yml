@@ -25,10 +25,8 @@ author:  # change following line to your infomation.
   skill_icon1:
     - name: b fa-python
     - name: b fa-r-project
-    - name: b fa-git
   skill_icon2:
     - name: s fa-infinity
-    - name: s fa-brain
     - name: s fa-shoe-prints
 
   desc: Data scientist by day, Dancer by night || Current Ph.D. student in Biostats & Data Science@UT, alum@CMU.  # Describe yourself.
