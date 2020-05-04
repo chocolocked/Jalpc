@@ -1,7 +1,7 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Scholarly Recommendation systems 
+- name: Scholarly recommendation systems 
   i18n: Scholarly recommendation systems 
   gh_user: chocolocked
   repo: ScholarlyRecommenders
@@ -15,8 +15,8 @@
   img: /static/assets/img/landing/google.png
   desc: Previous PhD research project
   
-- name: Decoking prediction
-  i18n: Decoking prediction
+- name: Refinery decoking prediction
+  i18n: Refinery decoking prediction
   gh_user: chocolocked
   repo: RefineryDecokingPrediction
   img: /static/assets/img/landing/Shell_logo.svg
