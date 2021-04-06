@@ -29,7 +29,7 @@
     detail: PhD researcher
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  #present: true
 
 - name:
     detail: Shell Global Solutions 
