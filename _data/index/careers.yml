@@ -2,7 +2,7 @@
 
 - name:
     detail: Novartis
-    i18n: company_a
+    i18n: company_c
   desc:
     detail: I'll be working as a Ph.D. DS researching on Ankylosing spondylitis(AK) scoring predictions using state-of-the-art computer vision models.
     i18n: company_c_desc
