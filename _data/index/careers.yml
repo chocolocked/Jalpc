@@ -2,16 +2,16 @@
 
 - name:
     detail: Novartis
-    i18n: company_c
+    i18n: company_b
   desc:
     detail: I'll be working as a Ph.D. DS researching on Ankylosing spondylitis(AK) scoring predictions using state-of-the-art computer vision models.
-    i18n: company_c_desc
+    i18n: company_b_desc
   date:
     detail: May. 2021 (Incoming)
-    i18n: company_c_date
+    i18n: company_b_date
   job:
     detail: PhD Data Scientist, advanced methodology
-    i18n: company_c_job
+    i18n: company_b_job
   icon: fa-plus-square
   present: true
   
