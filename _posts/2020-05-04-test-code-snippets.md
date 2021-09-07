@@ -6,7 +6,7 @@ desc: "Quick test on writing code snippets in a blog post"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
 categories: [python]
 tags: [Chocolocked,Jekyll]
-icon: icon-html
+icon: icon-python
 ---
 
 This is a raw snippet:
