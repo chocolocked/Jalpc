@@ -4,7 +4,7 @@ title:  "code snippet test"
 date:   2020-05-04
 desc: "Quick test on writing code snippets in a blog post"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
-categories: [HTML]
+categories: [python]
 tags: [Chocolocked,Jekyll]
 icon: icon-html
 ---
