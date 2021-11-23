@@ -7,13 +7,19 @@
   repo: ScholarlyRecommenders
   img: /static/assets/img/landing/resys.png #change this to my graph
   desc: Current/ongoing PhD project
- 
+  
 - name: Heart failure onset risk prediction
   i18n: chocolocked
   gh_user: ZhiGroup
   repo: pytorch_ehr
   img: /static/assets/img/landing/google.png
   desc: Previous PhD research project
+
+- name: Attention-based Multiple Instance Learning on medical X-rays
+  i18n: Attention-based Multiple Instance Learning on medical X-rays
+  gh_user: chocolocked
+  img: /static/assets/img/landing/novartis.jpg #change this to my graph
+  desc: Summer 2021 project at Novartis
   
 - name: Refinery decoking prediction
   i18n: Refinery decoking prediction
