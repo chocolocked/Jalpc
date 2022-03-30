@@ -20,7 +20,7 @@
     detail: The University of Texas Health Science Center at Houston
     i18n: company_a
   desc:
-    detail: I'm working as a Ph.D. candidate researching on recommendation systems with [Dr.Ashraf Yaseen](https://sites.google.com/site/ashrafsyaseen/), and previously pytorch EHR with [Dr.Zhi](https://zhigroup.github.io/).
+    detail: I'm working as a Ph.D. candidate researching on recommendation systems with Dr.Ashraf Yaseen (https://sites.google.com/site/ashrafsyaseen/), and previously pytorch EHR with "[Dr.Zhi](https://zhigroup.github.io/)".
     i18n: company_a_desc
   date:
     detail: Dec. 2018
