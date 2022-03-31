@@ -21,7 +21,6 @@
     i18n: company_a
   desc:
     detail: I am working as a Ph.D. candidate researching on recommendation systems with Dr.Ashraf Yaseen, and previously pytorch EHR with Dr.Zhi.
-    href: https://sites.google.com/site/ashrafsyaseen/
     i18n: company_a_desc
   date:
     detail: Dec. 2018
