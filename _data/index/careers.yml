@@ -4,7 +4,7 @@
     detail: Novartis
     i18n: company_b
   desc:
-    detail: I've been working as a Ph.D. DS researching on Ankylosing spondylitis(AS) patients clinical predictions, with state-of-the-art attention-based deep multiple instance learning. Awesome mentors: Thibaud Coroller & Yao Chen.
+    detail: I have been working as a Ph.D. DS researching on Ankylosing spondylitis(AS) patients clinical predictions, with state-of-the-art attention-based deep multiple instance learning; Awesome mentors: Thibaud Coroller & Yao Chen.
     i18n: company_b_desc
   date:
     detail: May. 2021 
@@ -20,7 +20,7 @@
     detail: The University of Texas Health Science Center at Houston
     i18n: company_a
   desc:
-    detail: I'm working as a Ph.D. candidate researching on recommendation systems with Dr.Ashraf Yaseen, and previously pytorch EHR with Dr.Zhi.
+    detail: I am working as a Ph.D. candidate researching on recommendation systems with Dr.Ashraf Yaseen, and previously pytorch EHR with Dr.Zhi.
     href: https://sites.google.com/site/ashrafsyaseen/
     i18n: company_a_desc
   date:
@@ -36,7 +36,7 @@
     detail: Shell Global Solutions 
     i18n: company_b
   desc:
-    detail: I worked as a data scientist leading 2 projects, refinery decoking prediction with LSTM & MTR forms information extraction with Tesseract-OCR and NLP. Awesome mentor: Deval Pandya.
+    detail: I worked as a data scientist leading 2 projects, refinery decoking prediction with LSTM & MTR forms information extraction with Tesseract-OCR and NLP; Awesome mentor: Deval Pandya.
     i18n: company_b_desc
   date:
     detail: May. 2018
