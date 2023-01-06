@@ -29,7 +29,7 @@ author:  # change following line to your infomation.
     - name: icon-mysql
     - name: icon-shell
 
-  desc: Data scientist by day, Dancer by night || Current Ph.D. candidate in Biostats & Data Science@UT, alum@CMU.  # Describe yourself.
+  desc: Data scientist by day, Dancer by night || Sr. DS manager@Fidelity AICOE, alum@UT & @CMU.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
