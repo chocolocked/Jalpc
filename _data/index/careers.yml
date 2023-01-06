@@ -4,7 +4,7 @@
     detail: Novartis
     i18n: company_b
   desc:
-    detail: Ph.D. DS researching on Ankylosing spondylitis patients clinical predictions, with state of the art attention-based deep multiple instance learning.
+    detail: Ph.D. DS researching on Ankylosing spondylitis patients clinical predictions, with state of the art attention based deep multiple instance learning.
     i18n: company_b_desc
   date:
     detail: May. 2021 
@@ -13,7 +13,7 @@
     detail: PhD Data Scientist, Advanced Methodology Data Science
     i18n: company_b_job
   icon: fa-plus-square
-  present: true
+  present: False
   
 
 - name:
@@ -29,7 +29,7 @@
     detail: PhD researcher
     i18n: company_a_job
   icon: fa-plus-square
-  present: true
+  present: False
 
 - name:
     detail: Shell Global Solutions 
