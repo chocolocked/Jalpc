@@ -4,7 +4,7 @@
     detail: Novartis
     i18n: company_b
   desc:
-    detail: I have been working as a Ph.D. DS researching on Ankylosing spondylitis patients clinical predictions, with state-of-the-art attention-based deep multiple instance learning. Awesome mentors: Thibaud Coroller & Yao Chen.
+    detail: Ph.D. DS researching on Ankylosing spondylitis patients clinical predictions, with state of the art attention-based deep multiple instance learning.
     i18n: company_b_desc
   date:
     detail: May. 2021 
@@ -20,7 +20,7 @@
     detail: The University of Texas Health Science Center at Houston
     i18n: company_a
   desc:
-    detail: I am working as a Ph.D. candidate researching on recommendation systems with Dr.Ashraf Yaseen, and previously pytorch EHR with Dr.Zhi.
+    detail: Ph.D. candidate researching on recommendation systems with Dr.Ashraf Yaseen, and previously pytorch EHR with Dr.Zhi.
     i18n: company_a_desc
   date:
     detail: Dec. 2018
