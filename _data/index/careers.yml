@@ -1,15 +1,15 @@
 # careers section data
 - name:
-    detail: Fidelity
+    detail: Fidelity Investment
     i18n: company_a
   desc:
     detail: Sr. DS researching on DL powered PII annoymization for customer interactions 
     i18n: company_a_desc
   date:
-    detail: Aug. 2021 
+    detail: Aug. 2022 
     i18n: company_a_date
   job:
-    detail: PhD Data Scientist, Advanced Methodology Data ScienceSr. Data Scientist Manager, AICOE
+    detail: Sr. Data Scientist Manager, AICOE
     i18n: company_a_job
   icon: fa-plus-square
   present: True
