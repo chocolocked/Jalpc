@@ -7,6 +7,7 @@ keywords: "ideas,blog,easy,update"
 categories: [Ideas]
 tags: [Ideas,Chocolocked]
 icon: icon-lightbulb
+
 ---
 
 10年之前 同行出去唱k的一个平常嘻嘻哈哈超级乐天的男性朋友唱十年泣不成声 剩余的大家错愕不已
