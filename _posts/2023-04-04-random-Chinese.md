@@ -9,15 +9,16 @@ tags: [Ideas,Chocolocked]
 icon: icon-lightbulb
 
 ---
+
 || 凌晨3点醒来 感觉一切都像梦一场 ||
 
-
+=================================
 曾经以为自己想自由，有了自由才发现每每都哭的像个傻子，到头来还是想要他一起看细水长流
 终于想了很久很久,
 于是终于有生以来第一次有了结婚成家的冲动,
 于是终于想要为他cross country relocation做个fully-remote的工作,
 于是终于鼓起勇气飞去我们曾经那座城市，
-想要拉着他的手去教堂去说I do, if he will still have me, 牵着狗
+想要拉着他的手去教堂去说I do, 牵着狗
 想要做很多的事见很多的人看很多的风景，但是他都在
 想要跟他共同承担生活中的一切, through thickness and thin
 想要跟他探讨怎么能做的更好，communication, support, little, big, sex, and unsexy things 
