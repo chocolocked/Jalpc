@@ -22,7 +22,7 @@ icon: icon-lightbulb
 想要拉着他的手去教堂去说I do, 牵着狗
 想要做很多的事见很多的人看很多的风景，但是他都在
 想要跟他共同承担生活中的一切, through thickness and thin
-想要跟他探讨怎么能做的更好，communication, support, little things, big things, sex things, and unsexy things 
+想要跟他探讨怎么能做的更好，communication, support, little things, big things, sexy things, and unsexy things 
 幸福的画面在脑海中闪现了千万遍,
 因为有个人曾经告诉我‘我觉得不试一试的话 会遗憾一辈子的’
 于是逃避了那个99%的更可能的拒绝
