@@ -1,0 +1,6 @@
+---
+layout: blog
+title: Food
+permalink: /food/
+---
+{% include category.html %}
