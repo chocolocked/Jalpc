@@ -36,7 +36,7 @@ One day I'll be getting married (I know that), and WE WILL be getting married to
 ```
 html
   <a href="https://github.com/tthn0/Spotify-Readme">
-    <img src="https://{PROJECT_NAME}.vercel.app/api" alt="Current Spotify Song">
+    <img src="https://music-olive-nine.vercel.app/api" alt="Current Spotify Song">
   </a>
 ```
 [![Spotify](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL)](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL)
