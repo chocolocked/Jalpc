@@ -3,7 +3,7 @@ layout: post
 title:  "music & others"
 date:   2023-07-02
 desc: "idk"
-keywords: "music,harrypotter, blog,easy,update"
+keywords: "music,random, blog,easy,update"
 categories: [Ideas]
 tags: [Ideas,Chocolocked]
 icon: icon-lightbulb
@@ -47,6 +47,7 @@ and dog(s). And we can read, dance, sing, cook, and laugh all the time. I think 
 "I'd like to be a Gryffindor but Pottermore clearly decided I wasn't that brave enough. Maybe Pottermore is right".
 
 We laughed. 
+Maybe good things can happen after 2am. 
 
 
 
