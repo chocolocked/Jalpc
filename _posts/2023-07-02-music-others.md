@@ -16,12 +16,12 @@ The light dimmed, the crowd got quiet. This red hair guy was standing still stri
 Everything else disappeared from this world, all that was left was his melody, my memories, and my thoughts. 
 
 '''
-<a>
+<a href="https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL"> 
 We keep this love in a photograph
-We made these memories for ourselves
-Where our eyes are never closing
-Hearts are never broken
-And time's forever frozen, still
+<br>We made these memories for ourselves
+<br>Where our eyes are never closing
+<br>Hearts are never broken
+<br>And time's forever frozen, still
 </a>
 '''
 
@@ -32,7 +32,7 @@ Because love is the best thing we do.”
 One day I'll be getting married (I know that), and WE WILL be getting married to this song. 
 
 
-[![Spotify](https://music-olive-nine.vercel.app/api?spin=true)](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL)
+
 
 D and I were lying down in the car seats while waiting in a line to get out of the parking lot that seemed never moving and randomly chatting about
 hopes and dreams. The moon was shining bright.
