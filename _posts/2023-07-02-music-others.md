@@ -41,10 +41,10 @@ in the NC countryside", she said.
 "Just you? Don't you want to be with somebody?", I asked, "I want to live somewhere near the water with lots of sunshine, with someone I love
 and dog(s). And we can read, dance, sing, cook, and laugh all the time. I think I'll retire somewhere in Europe".
 
-"What's your Hogwarts house?"
-"Ravenclaw, yours?" I asked.
+"What's your Hogwarts house, Ginny?" 
+"Ravenclaw, yours?" 
 "Hufflepuff, I'm so surprised cuz I thought you would be a Gryffindor, cuz you're so ... brave". 
-"I would like to be Gryffindor but Pottermore clearly decided I wasn't that brave enough. Maybe Pottermore is right".
+"I'd like to be a Gryffindor but Pottermore clearly decided I wasn't that brave enough. Maybe Pottermore is right".
 
 We laughed. 
 
