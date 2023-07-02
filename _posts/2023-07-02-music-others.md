@@ -32,6 +32,13 @@ learning to become better, and learning to trust and be open to another person w
 “Love is totally nonsensical. But we have to keep doing it or else we’re lost and love is dead, and humanity should just pack it in. 
 Because love is the best thing we do.”
 One day I'll be getting married (I know that), and WE WILL be getting married to this song. 
+  
+```
+html
+  <a href="https://github.com/tthn0/Spotify-Readme">
+    <img src="https://{PROJECT_NAME}.vercel.app/api" alt="Current Spotify Song">
+  </a>
+```
 [![Spotify](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL)](https://open.spotify.com/track/1HNkqx9Ahdgi1Ixy2xkKkL)
 
 D and I were lying down in the car seats while waiting in a line to get out of the parking lot that seemed never moving and randomly chatting about
