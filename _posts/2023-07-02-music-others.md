@@ -16,15 +16,13 @@ The light dimmed, the crowd got quiet. This red hair guy was standing still stri
 Everything else disappeared from this world, all that was left was his melody, my memories, and my thoughts. 
 
 '''
+<a>
 We keep this love in a photograph
-
 We made these memories for ourselves
-
 Where our eyes are never closing
-
 Hearts are never broken
-
 And time's forever frozen, still
+</a>
 '''
 
 We all have been there; loved and hurt, didn't love and hurt others. We are all imperfect human beings learning how to let go of past relationships,
