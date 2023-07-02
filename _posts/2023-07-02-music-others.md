@@ -29,7 +29,7 @@ We all have been there; loved and hurt, didn't love and hurt others. We are all 
 learning to become better, and learning to trust and be open to another person with the possibility of getting hurt again. Maybe I'm a hopeless romantic deep down.  
 “Love is totally nonsensical. But we have to keep doing it or else we’re lost and love is dead, and humanity should just pack it in. 
 Because love is the best thing we do.”
-One day I'll be getting married (I know that), and WE WILL be getting married to this song. 
+One day I'll be getting married (I know that), and HE and I will be getting married to this song. 
 
 
 ========
@@ -38,16 +38,16 @@ D and I were lying down in the car seats while waiting in a line to get out of t
 hopes and dreams. The moon was shining bright.
 "I want to live in a wooden cottage house in a secluded forest with lots of books and still keep my writing habit when I'm 80. You know, maybe somewhere
 in the NC countryside", she said. 
-"Just you? Don't you want to be with somebody?", I asked, "I want to live somewhere near the water with lots of sunshine, with someone I love
+"Just you? Don't you want to be with somebody, your partner?", I asked, "I want to live somewhere near the water with lots of sunshine, with someone I love
 and dog(s). And we can read, dance, sing, cook, and laugh all the time. I think I'll retire somewhere in Europe".
 
 "What's your Hogwarts house, Ginny?" 
 "Ravenclaw, yours?" 
-"Hufflepuff, I'm so surprised cuz I thought you would be a Gryffindor, cuz you're so ... brave". 
+"Hufflepuff, I'm so surprised cuz I thought you would be a Gryffindor, cuz you seem so ... brave". 
 "I'd like to be a Gryffindor but Pottermore clearly decided I wasn't that brave enough. Maybe Pottermore is right".
 
 We laughed. 
-Maybe good things can happen after 2am. 
+Maybe good things can happen after 2am, when you're with friends. 
 
 
 
