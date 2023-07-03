@@ -3,9 +3,9 @@ layout: post
 title:  "sailing & random"
 date:   2023-06-25
 desc: "idk"
-keywords: "sailing & windsurfing,blog,easy,update"
-categories: [Ideas, Sailing & Windsurfing]
-tags: [Ideas, Sailing & Windsurfing,Chocolocked]
+keywords: "sailingAndwindsurfing,blog,easy,update"
+categories: [Ideas, SailingAndWindsurfing]
+tags: [Ideas, SailingAndWindsurfing,Chocolocked]
 icon: icon-lightbulb
 
 ---
