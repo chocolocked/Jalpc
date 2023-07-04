@@ -4,8 +4,8 @@ title:  "sailing & random"
 date:   2023-06-25
 desc: "idk"
 keywords: "sailing & windsurfing,blog,easy,update"
-categories: [Ideas, SailingANDWindsurfing]
-tags: [Ideas, SailingANDWindsurfing, Chocolocked]
+categories: [Ideas, Sailing & Windsurfing]
+tags: [Ideas, Sailing & Windsurfing, Chocolocked]
 icon: icon-lightbulb
 
 ---
