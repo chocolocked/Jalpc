@@ -17,6 +17,10 @@
   
 - name: Ideas
   href: /ideas/
+
+- name: Jokes
+  href: /jokes/
+
   
 - name: Python
   href: /python/
@@ -24,7 +28,7 @@
 - name: Statistics
   href: /statistics/
 
-  
+ 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
   href: /donate/
