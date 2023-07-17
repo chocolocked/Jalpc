@@ -3,9 +3,9 @@ layout: post
 title:  "sailing & random"
 date:   2023-06-25
 desc: "idk"
-keywords: "sailing, water,blog,easy,update"
-categories: [Ideas, water]
-tags: [Ideas, water]
+keywords: "Water, sailing, blog, easy, update"
+categories: [Ideas, Water]
+tags: [Ideas, Water]
 icon: icon-lightbulb
 
 ---
