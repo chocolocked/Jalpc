@@ -5,7 +5,7 @@ date:   2023-06-25
 desc: "idk"
 keywords: "sailing, water,blog,easy,update"
 categories: [Ideas, water]
-tags: [Ideas, water, Chocolocked]
+tags: [Ideas, water]
 icon: icon-lightbulb
 
 ---
