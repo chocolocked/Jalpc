@@ -29,6 +29,6 @@ icon: icon-lightbulb
 
 
 *notes*
-1. replace the green tea with 10g black sesame, 10g nuts and 10g chocolate chips for a different twist!
+1. replace the green tea with 10g black sesame, 10g nuts, and 10g chocolate chips for a more exotic twist!
 
 
