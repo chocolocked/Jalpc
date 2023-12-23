@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simple and quick!"
+title:  "Simple and quick clay pot rice"
 date:   2023-12-22
 desc: "idk"
 keywords: "food,blog,easy,update"
