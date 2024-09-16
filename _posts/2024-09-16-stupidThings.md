@@ -3,7 +3,7 @@ layout: post
 title:  "Lebenslanger Schicksalsschatz"
 date:   2024-09-16
 desc: "idk"
-keywords: "random, blog,easy,update"
+keywords: "random,blog,easy,update"
 categories: [Ideas]
 tags: [Ideas]
 icon: icon-lightbulb
