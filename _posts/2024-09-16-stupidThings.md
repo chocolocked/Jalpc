@@ -13,7 +13,7 @@ icon: icon-lightbulb
 Random thoughts rushing in since last night. I guess I never quite get over some things like I thought I did. 
 Resurging of feelings, resurging of thoughts of what it could be between us. Stupid stupid emotions.
 
-I thought you might be my Lebenslanger Schicksalsschatz, but maybe I'm just delusional. Am I stupid or wise to hold on to the feelings? 
+I thought you might be my Lebenslanger Schicksalsschatz, but I'm just delusional. Am I stupid or wise to hold on to the feelings? 
 
 ==============================================
 
