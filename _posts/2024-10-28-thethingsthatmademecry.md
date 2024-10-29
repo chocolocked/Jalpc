@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The end"
+title:  "Delicate"
 date:   2024-10-28
 desc: "idk"
 keywords: "random,blog,easy,update"
